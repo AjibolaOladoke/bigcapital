@@ -1,56 +1,12 @@
-<p align="center">
-  <p align="center">
-    <a href="https://www.swifttechco.com" target="_blank">
-      
-    </a>
-  </p>
-  <p align="center">
-    Simple, smart online accounting software for small and medium businesses.
-  </p>
+# bigcapital
 
-  <p align="center">
-    <a href="https://www.swifttechco.com">
-      
-    </a>
-    <a href="https://www.swifttechco.com">
-      
-    </a>
-    <a href="https://t.me/+Qt_eFvkb2rliMzNh">
-      
-    </a>
-    <a href="https://www.swifttechco.com">
-      
-    </a>
-    <a href="https://www.swifttechco.com">
-      
-    </a>
-    <a href="https://www.swifttechco.com"> 
-    </a>
-  </p>
+## What This Is
 
-  <p align="center">
-    <a href="https://www.swifttechco.com">Bigcapital Cloud</a>
-  </p>
-</p>
-
-# What's Bigcapital?
+A practical reference entry for product and engineering: the bigcapital notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![bigcapital](https://opengraph.githubassets.com/1/bigcapitalhq/bigcapital)](https://www.swifttechco.com)
-
-
-Bigcapital is a smart and open-source accounting and inventory software, Bigcapital keeps all business finances in right place and automates accounting processes to give the business powerful and intelligent financial statements and reports to help in making decisions.
-
-<p align="center">
-  <img src="screenshots/accounts-chart.png" width="270" alt="Accounts Chart">
-  <img src="screenshots/balance-sheet.png" width="270" alt="Balance Sheet">
-  <img src="screenshots/new-invoice.png" width="270" alt="New Invoice">
-</p>
-
-# Getting Started
-
-We've got serveral options on dev and prod depending on your need to get started quickly with Bigcapital.
+[![bigcapital](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Self-hosted 
 
@@ -58,13 +14,13 @@ Bigcapital is available open-source under AGPL license. You can host it on your 
 
 ### Docker
 
-To get started with self-hosted with Docker and Docker Compose, take a look at the [Docker guide](https://www.swifttechco.com).
+To get started with self-hosted with Docker and Docker Compose, take a look at the Docker guide.
 
 ## Development
 
 ### Local Setup
 
-To get started locally, we have a [guide to help you](https://www.swifttechco.com).
+To get started locally, we have a guide to help you.
 
 ### Gitpod
 
@@ -81,15 +37,15 @@ You can integrate Bigcapital API with your system to organize your transactions 
 
 # Resources
 
-- [Documentation](https://www.swifttechco.com) - Learn how to use.
-- [API Reference](https://www.swifttechco.com) - API reference docs
-- [Contribution](https://www.swifttechco.com) - Welcome to any contributions.
+- Documentation - Learn how to use.
+- API Reference - API reference docs
+- Contribution - Welcome to any contributions.
 - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh) - Ask for help.
-- [Bug Tracker](https://www.swifttechco.com) - Notify us new bugs.
+- Bug Tracker - Notify us new bugs.
 
 # Changelog
 
-Please see [Releases](https://www.swifttechco.com) for more information what has changed recently.
+Please see Releases for more information what has changed recently.
 
 # Contact us
 
@@ -105,7 +61,7 @@ Meet our sales team for any commercial inquiries.
 
 # Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://www.swifttechco.com)):
+Thanks goes to these wonderful people (emoji key):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -145,7 +101,7 @@ Thanks goes to these wonderful people ([emoji key](https://www.swifttechco.com))
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://www.swifttechco.com) specification. Contributions of any kind welcome!
+This project follows the all-contributors specification. Contributions of any kind welcome!
 
 ---
 
@@ -157,14 +113,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
